@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">alphabet hijaiyah</string>
+    <string name="alif">alif</string>
+    <string name="ba">ba</string>
+    <string name="ta">ta</string>
+    <string name="tsa">tsa</string>
+    <string name="jim">jim</string>
+    <string name="ha">ha</string>
+    <string name="kho">kho</string>
+    <string name="dal">dal</string>
+    <string name="dzal">dzal</string>
+    <string name="ro">ro</string>
+    <string name="zal">zal</string>
+    <string name="sin">sin</string>
+    <string name="syin">syin</string>
+    <string name="shad">shad</string>
+    <string name="dhad">dhad</string>
+    <string name="tha">tha</string>
+    <string name="zha">zha</string>
+    <string name="ain">ain</string>
+    <string name="ghain">ghain</string>
+    <string name="fa">fa</string>
+    <string name="qaf">qaf</string>
+    <string name="kaf">kaf</string>
+    <string name="lam">lam</string>
+    <string name="mim">mim</string>
+    <string name="nun">nun</string>
+    <string name="wau">wau</string>
+    <string name="haa">haa</string>
+    <string name="ya">ya</string>
+    <string name="soundbutton">sound button</string>
+</resources>
